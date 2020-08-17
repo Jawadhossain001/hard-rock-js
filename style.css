@@ -16,7 +16,7 @@ body{
 .btn{
     border-radius: 1.5rem;
     padding: 9px 20px;
-}
+}z
 
 .btn-privious{
     background: rgba(255, 255, 255, 0.2);
@@ -38,4 +38,6 @@ body{
     background: rgba(255, 255, 255, 0.2);
     border-radius: 15px;
 }
-
+.btn.go-back {
+	color: green;
+}
